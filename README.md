@@ -16,7 +16,7 @@
 
 <!-- Project Preview Screenshot -->
 <p align="center">
-  <img src="Preview.png" alt="Hangman Game UI Preview" width="850px" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+  <img src="Screenshot_2026-08-27-21-48-39-89_16760760d4fabf65d9ef40d095f6e1cc.jpg" alt="Hangman Game UI Preview" width="850px" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
 </p>
 
 <p align="center">
